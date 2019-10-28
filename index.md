@@ -16,7 +16,7 @@ On this site you will find a how-to guide including a technical step-by-step wal
           <li><a href="EMOTIVEFunnelModel.txt" download> Download the template for<strong> the Funnel Model </strong></a></li>
         </ul>
         
-        ***
+### How to Use the Templates
         
 The EMOTIVE bot templates are designed to be used on Snatchbot. <a href="snatchbot.me"> Snatchbot </a> is a free chatbot building tool that requires no previous programming experience. All you need to do to use the templates is follow these five simple steps: 
 
