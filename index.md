@@ -21,7 +21,7 @@ On this site you will find a how-to guide including a technical step-by-step wal
 The EMOTIVE bot templates are designed to be used on Snatchbot. <a href="https://snatchbot.me"> Snatchbot </a> is a free chatbot building tool that requires no previous programming experience. All you need to do to use the templates is follow these six simple steps: 
 
 1. Download one of the templates.
-2. Login to <a href="https://snatchbot.me/"> Snatchbot </a>
+2. Login to <a href="https://snatchbot.me/"> Snatchbot. </a>
 3. Select “Create a Bot “ and fill out the information.
 4. Select the ”Configure” menu from the side bar. 
 5. Go to the backup/restore tab (located at the top of the screen)
