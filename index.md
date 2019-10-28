@@ -27,6 +27,6 @@ The EMOTIVE bot templates are designed to be used on Snatchbot. <a href="https:/
 5. Go to the backup/restore tab (located at the top of the screen)
 6. Select  ‘Import’ and upload the template.
 
-Download a visual guide of the upload process. 
+Download a <a href="How to Use the Templates.pdf" download>visual guide of the template upload process </a> 
 
      
