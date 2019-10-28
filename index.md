@@ -15,5 +15,15 @@ On this site you will find a how-to guide including a technical step-by-step wal
           <li><a href="EMOTIVENestingDollModel.txt" download> Download the template for<strong> the Nesting Doll Model </strong></a></li>
           <li><a href="EMOTIVEFunnelModel.txt" download> Download the template for<strong> the Funnel Model </strong></a></li>
         </ul>
-     
+        
+        ***
+        
+The EMOTIVE bot templates are designed to be used on Snatchbot. <a href="snatchbot.me"> Snatchbot </a> is a free chatbot building tool that requires no previous programming experience. All you need to do to use the templates is follow these five simple steps: 
 
+1. Login to https://snatchbot.me
+2. Select “Create a Bot “ and fill out the information.
+3. Select the ”Configure” menu from the side bar. 
+4. Go to the backup/restore tab (located at the top of the screen)
+5. Select  ‘Import’ and upload the template of your choice. 
+
+     
