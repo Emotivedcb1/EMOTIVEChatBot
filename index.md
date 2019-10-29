@@ -11,9 +11,9 @@ On this site you will find a how-to guide including a technical step-by-step wal
 
 <ul>
     <li> <a href="EMOTIVE_UpdatedHow-to-Guide.pdf" download> Download the<strong> EMOTIVE Dialogic Chatbot How-to-Guide</strong></a> </li>
-          <li><a href="EMOTIVEFigure8Model.txt" download> Download the template for <strong>the Figure 8 Model </strong></a></li>
-          <li><a href="EMOTIVENestingDollModel.txt" download> Download the template for<strong> the Nesting Doll Model </strong></a></li>
-          <li><a href="EMOTIVEFunnelModel.txt" download> Download the template for<strong> the Funnel Model </strong></a></li>
+          <li><a href="EMOTIVEFigure8Model.txt" download> Download the template for <strong>the Figure 8 Model </strong></a>for use on Snatchbot. </li>
+          <li><a href="EMOTIVENestingDollModel.txt" download> Download the template for<strong> the Nesting Doll Model </strong></a> for use on Snatchbot. </li>
+          <li><a href="EMOTIVEFunnelModel.txt" download> Download the template for<strong> the Funnel Model </strong></a> for use on Snatchbot.</li>
         </ul>
         
 ### How to Use the Templates
